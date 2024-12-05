@@ -24,12 +24,20 @@
 Все функции визуализатора зависимостей должны быть покрыты тестами.
 
 
+### Конфигурационный файл
+
+![image](https://github.com/user-attachments/assets/1d906dfe-77f8-4002-99d1-98a519607f0d)
+
+
+
 ### Скрин работы программы
   
-![image](https://github.com/user-attachments/assets/0b6c3c56-b466-4332-8f07-937806bb0c1a)
+![image](https://github.com/user-attachments/assets/cd0cd33b-2fa0-47bf-b0dd-bbd5ff1bc5fa)
+
 
 
 ### Результаты тестов
 
-![image](https://github.com/user-attachments/assets/c6a9cc05-af4b-41f4-8b53-41e93f4de6ac)
+![image](https://github.com/user-attachments/assets/739526eb-d434-4a9a-b995-31a409a304d2)
+
 
