@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <graphviz_path>C:\Users\user\Graphviz\bin\dot.exe</graphviz_path>
+    <package_path>C:\Users\user\my-sample-project</package_path>
+    <output_image_path>C:\Users\user\config\graph.png</output_image_path>
+    <repository_url>https://repo.maven.apache.org/maven2</repository_url>
+</config>
